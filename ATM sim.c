@@ -1,6 +1,6 @@
-/* Kullanıcıdan bakiye ve çekilmek istenen tutarı iste.
-eğer çekilmek istenen tutar bakiyeden fazlaysa "yetersiz bakiye yaz".
-Eğer tutar bakiyeyi 100tl'nin altına düşürecekse kritik seviye uyarısı versin ve onay istesin*/
+/* KullanÄ±cÄ±dan bakiye ve Ã§ekilmek istenen tutarÄ± iste.
+eÄŸer Ã§ekilmek istenen tutar bakiyeden fazlaysa "yetersiz bakiye yaz".
+EÄŸer tutar bakiyeyi 100tl'nin altÄ±na dÃ¼ÅŸÃ¼recekse kritik seviye uyarÄ±sÄ± versin ve onay istesin*/
 #include <stdio.h>
 
 int bakiye;
@@ -20,7 +20,7 @@ int main(){
 	}
 	printf("\n--------------------------------\n\n");
 	
-	if(tutar > bakiye){																																																				if(tutar>9999){printf("BI AKILLI SENSIN\n");return 0;}
+	if(tutar > bakiye){
 		printf("\n----  Hesabinizda yeterli bakiye mevcut degil!  ----");
 		printf("\n\n");
 		return 0;
