@@ -1,6 +1,6 @@
-/*   10 elemanlı bir dizinin elemanları klavyeden girilecektir.Dizi elemanlarından negatif ve pozıtı
-olanlarının ayrı ayrı toplamını bulup ekrana yazdıran problemi pointer kullanarak C ile çözünüz.(25
-uan).*/
+/*   10 elemanlÄ± bir dizinin elemanlarÄ± klavyeden girilecektir.Dizi elemanlarÄ±ndan negatif ve pozÄ±tÄ±
+olanlarÄ±nÄ±n ayrÄ± ayrÄ± toplamÄ±nÄ± bulup ekrana yazdÄ±ran problemi pointer kullanarak C ile Ã§Ã¶zÃ¼nÃ¼z.
+*/
 
 #include <stdio.h>
 
@@ -26,3 +26,4 @@ int main(){
 	
 	
 }
+
